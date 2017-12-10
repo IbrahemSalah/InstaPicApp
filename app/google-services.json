@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "526414817814",
+    "firebase_url": "https://instapicapp-4bc2f.firebaseio.com",
+    "project_id": "instapicapp-4bc2f",
+    "storage_bucket": "instapicapp-4bc2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526414817814:android:f4a73218305819fe",
+        "android_client_info": {
+          "package_name": "com.example.ibrahem.instapicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526414817814-rlp9mgakeu628t75bt6st0c7scnjoaqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ibrahem.instapicapp",
+            "certificate_hash": "54559e3cb7aa76f4932617b9d2c9df188f8dbe13"
+          }
+        },
+        {
+          "client_id": "526414817814-0agjt04gvc3rm0hfl89e1srjhibo3t9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ibrahem.instapicapp",
+            "certificate_hash": "e4964bc3adb071656c1b6216db494e419a4a6096"
+          }
+        },
+        {
+          "client_id": "526414817814-0qp5et9svjcn98holmibqcpgqsmqngk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwb-mEOkc6LT5Ilyp3Q648QKr5GZlpMbo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526414817814-0qp5et9svjcn98holmibqcpgqsmqngk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
